@@ -1,0 +1,16 @@
+C:\Users\GalerdonxD\source\repos\Practica 3\bin\Debug\net6.0-windows\Practica 3.exe
+C:\Users\GalerdonxD\source\repos\Practica 3\bin\Debug\net6.0-windows\Practica 3.deps.json
+C:\Users\GalerdonxD\source\repos\Practica 3\bin\Debug\net6.0-windows\Practica 3.runtimeconfig.json
+C:\Users\GalerdonxD\source\repos\Practica 3\bin\Debug\net6.0-windows\Practica 3.dll
+C:\Users\GalerdonxD\source\repos\Practica 3\bin\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica_3.Form1.resources
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.GenerateResource.cache
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.AssemblyInfo.cs
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.dll
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\refint\Practica 3.dll
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.pdb
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\Practica 3.genruntimeconfig.cache
+C:\Users\GalerdonxD\source\repos\Practica 3\obj\Debug\net6.0-windows\ref\Practica 3.dll
